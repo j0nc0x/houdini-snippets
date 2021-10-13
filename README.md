@@ -4,6 +4,6 @@ This repo contains a collection of Houdini snippets and tricks.
 
 - Tricks
   - HDA
-    - [Call function from HDA parameter](tricks/hda/parameterfunction)
+    - [Call function from HDA parameter](tricks/hda/parameterfunction.md)
   - Solaris
-    - [Get LOPs editor node](tricks/solaris/editornode)
+    - [Get LOPs editor node](tricks/solaris/editornode.md)
